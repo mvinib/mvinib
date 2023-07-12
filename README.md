@@ -4,12 +4,10 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvinib/)
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius.vinii/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini512033@gmail.com)
+<a href="mailto:vini512033@gmail.com">[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini512033@gmail.com)<a/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvinib&hide_progress=false&layout=compact)
 
-![snake gif](https://github.com/mvinib/mvinib/blob/output/github-contribution-grid-snake.svg)
 
 ## Teconologias que utilizo no meu dia a dia
 <div style="display: inline_block">
@@ -27,6 +25,11 @@
 </div>
 <br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvinib&hide_progress=false&layout=compact)
+
+## 
+![snake gif](https://github.com/mvinib/mvinib/blob/output/github-contribution-grid-snake.svg)
+<br/>
 ## Destaques
 
  - <a href="https://www.npmjs.com/package/react-draggable-button" target="_blank">react-draggable-button</a> - Certo dia tive a necessidade de um botão móvel para uma aplicação mobile. No entanto, não consegui encontrar nenhum pacote que atendesse minhas necessidades. Foi então que acabei criando um componente que inicialmente se travata apenas de um botão, mas logo percebi que ele poderia ser mais que isso. Então resolvi publicar para que a comunidade possa eventualmente utilizar. Esse foi meu primeiro pacote publicado e sem dúvidas foi muito satisfatório ter essa realização. :)
