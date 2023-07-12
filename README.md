@@ -4,8 +4,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvinib/)
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius.vinii/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini512033@gmail.com)
-[Dr. Ken Lunde](mailto:vini512033@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a href="mailto:vini512033@gmail.com" target="_blank"/>)
+[Emaik](mailto:vini512033@gmail.com)
 
 
 
