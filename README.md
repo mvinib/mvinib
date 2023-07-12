@@ -9,6 +9,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvinib&hide_progress=false&layout=compact)
 
+![snake gif](https://github.com/mvinib/mvinib/blob/output/github-contribution-grid-snake.svg)
+
 ## Teconologias que utilizo no meu dia a dia
 <div style="display: inline_block">
   <br/>
